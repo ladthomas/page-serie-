@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+h2 {
+  color: red;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+h1 {
+  text-shadow: 0 4px 0 black, 0 -4px 0 rgb(63, 63, 30);
+}
+h2 {
+  text-shadow: 0 4px 0 black, 0 -4px 0 rgb(75, 75, 29);
+}

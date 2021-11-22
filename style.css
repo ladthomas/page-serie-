@@ -1,0 +1,27 @@
+image {max-width: 100%;
+    height: auto;
+  }
+body{ font-family: sans-serif;
+}
+
+
+  h1{color: red;
+    font-weight: 600;
+    
+
+  }
+
+  h2{color: red;
+    text-decoration : underline;
+    font-weight: 600;
+  }
+
+  h3{color: red;
+    text-decoration : underline;
+    font-weight: 600;
+    text-decoration-line: underline;
+  }
+  
+  h1{text-shadow:0 4px 0 black, 0 -4px 0 beige;}
+
+
